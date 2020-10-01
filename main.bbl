@@ -1,0 +1,33 @@
+\begin{thebibliography}{}
+
+\bibitem[{ Python Software Foundation}, 2020]{py}
+{ Python Software Foundation} (2020).
+\newblock Python 3.8.
+\newblock \url{https://www.python.org/downloads/release/python-380/}.
+
+\bibitem[Niblack, 1986]{niblack}
+Niblack, W. (1986).
+\newblock {\em An introduction to digital image processing}.
+\newblock Prentice-Hall.
+
+\bibitem[{OpenCV Team}, 2020]{open}
+{OpenCV Team} (2020).
+\newblock Opencv.
+\newblock \url{https://opencv.org/}.
+
+\bibitem[Otsu et~al., 1992]{otsu}
+Otsu, T., Kurita, N., and Abdelmalek, N. (1992).
+\newblock Maximum likelihood thresholding based on population mixture models.
+\newblock {\em Pattern recognition}, 25(10):1231--1240.
+
+\bibitem[{Red Hat Inc.}, 2020]{Fedora}
+{Red Hat Inc.} (2020).
+\newblock Fedora workstation 32.
+\newblock \url{https://getfedora.org/en/workstation/download/}.
+
+\bibitem[Sauvola and Pietik{\"a}inen, 2000]{sauvola}
+Sauvola, J. and Pietik{\"a}inen, M. (2000).
+\newblock Adaptive document image binarization.
+\newblock {\em Pattern recognition}, 33(2):225--236.
+
+\end{thebibliography}
